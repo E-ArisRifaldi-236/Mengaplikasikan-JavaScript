@@ -1,0 +1,38 @@
+#wrapper {
+  width: 400px;
+  margin: 0 auto;
+}
+#html{
+  background-color: #ced4da;
+}
+
+.tengahkan {
+  width: 400px;
+  margin: 2px auto;
+}
+.coba{
+  width: 50px;
+	height: 50px;
+	font-size: 25px;
+	margin: 3px;
+	cursor: pointer;
+	border-radius: 10px;
+  text-align: center;
+  background-color: #ced4da;
+}
+input[type="text"] {
+  width: 300px;
+  height: 100px;
+  border-radius: 10px;
+}
+
+.main{
+  position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+}
+
+
+
+
